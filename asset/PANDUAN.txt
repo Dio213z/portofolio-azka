@@ -1,0 +1,2 @@
+Taruh sertifikat/foto prestasi asli di sini: prestasi1.jpg, prestasi2.png, prestasi3.jpeg, dst.
+Build akan mendeteksi seluruh gambar otomatis. Baca README.md untuk cara deploy.
